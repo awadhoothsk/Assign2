@@ -1,0 +1,16 @@
+{
+  "name": "assign2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node src/index.ts"
+  },
+  "author": "Awadhooth S K",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  }
+}
